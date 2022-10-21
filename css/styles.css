@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url("../images/fondo.jpg");
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column;
+}
+.logo{
+    width: 300px;
+    display: block;
+}
+p{
+    display: block;
+    width: 100%;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+}
